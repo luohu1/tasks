@@ -8,3 +8,5 @@ Pipfile.lock
 
 # editors
 .vscode/
+
+data/
